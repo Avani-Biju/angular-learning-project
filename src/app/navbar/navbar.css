@@ -1,0 +1,25 @@
+.navbar
+{
+background-color:#2b6048 !important;
+padding:5px 2px;
+}
+.navbar-brand {
+    font-family:'Times New Roman', Times, serif;
+    color:white;
+    font: size 1.7em;
+    font-weight:500;
+    margin:0;
+}
+
+.nav-link{
+    color:white !important;
+    font-weight:bold;
+}
+
+.nav-link:hover{
+    color:#f7d932e6 !important;
+}
+
+.navbar-nav{
+    margin-left:auto;
+}
